@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072264631769",
+    "project_id": "firestoref55122011",
+    "storage_bucket": "firestoref55122011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072264631769:android:56106046e0602d375775c8",
+        "android_client_info": {
+          "package_name": "com.ecommerce.f55122011.aril.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YSYnXHyruG_BGmd1_G266R-6c6mhO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
